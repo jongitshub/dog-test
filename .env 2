@@ -1,0 +1,4 @@
+MONGO_URI=mongodb+srv://root:root@cluster0.kmgic.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+PORT=5000
+JWT_SECRET=react123
+ADMIN_SECRET=react123
